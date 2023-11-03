@@ -9,4 +9,4 @@ clivemking/clivemking is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 Spent 26 years at Cray, Sun Microsystems and Oracle doing Unix kernel, performance, C++ compiler front end and much inbetween.
-Now semi-retired and picking up wortk that interests me when not rock climbing
+Now semi-retired and picking up work that interests me when not rock climbing
